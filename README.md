@@ -5,7 +5,7 @@ I'm Luis Araujo, a Computer Science student in Brazil, just trying to understand
 All the projects available here are parts of my development as a student and programmer.
 
 ## Current learning 📖
-- Programming logic
+- Java|HTML|CSS|C|Git|Python
 - App prototyping
-- UI/UX fundamentals
+- Programming fundamentals
 - Figma

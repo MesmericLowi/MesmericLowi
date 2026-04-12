@@ -9,3 +9,6 @@ All the projects available here are parts of my development as a student and pro
 - App prototyping
 - Programming fundamentals
 - Figma
+
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MesmericLowi&layout=compact&langs_count=6&theme=tokyonight)

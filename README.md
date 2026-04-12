@@ -11,8 +11,8 @@ All the projects available here are parts of my development as a student and pro
 - Figma
 
 <div align="center">
-  <img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=MesmericLowi&theme=tokyo-night"/>
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MesmericLowi&layout=compact&theme=tokyonight"/>
+  <img width="51%" src="https://github-readme-activity-graph.vercel.app/graph?username=MesmericLowi&theme=tokyo-night"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MesmericLowi&layout=compact&theme=tokyonight"/>
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=MesmericLowi&theme=tokyonight&hide_border=true"/>
